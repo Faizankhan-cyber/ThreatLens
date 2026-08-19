@@ -54,32 +54,32 @@ Make a safer decision
 ```
 The goal is to make digital threat detection easier to understand without overwhelming users with complicated security terminology.
 
-## ✨ Features
-# 🔗 URL Scanner
+# ✨ Features
+## 🔗 URL Scanner
 
 Analyse suspicious URLs and identify potential phishing or malicious-link indicators.
 
-# 💬 Message Scanner
+## 💬 Message Scanner
 
 Check suspicious messages for potential scam and phishing patterns.
 
-# 📧 Email Scanner
+## 📧 Email Scanner
 
 Analyse suspicious emails before interacting with links or requests inside them.
 
-# 🖼️ Screenshot Scanner
+## 🖼️ Screenshot Scanner
 
 Use screenshots as an additional source of threat investigation.
 
-# 🔳 QR Scanner
+## 🔳 QR Scanner
 
 Inspect suspicious QR codes before scanning or interacting with them.
 
-# ☎️ Phone Checker
+## ☎️ Phone Checker
 
 Investigate suspicious phone numbers and potential scam indicators.
 
-# 🧪 Demo Scenarios
+## 🧪 Demo Scenarios
 
 ThreatLens includes demonstration scenarios for common threats:
 
@@ -89,7 +89,7 @@ KYC Scam
 Delivery Scam
 Safe Link
 
-# 🛡️ Threats Covered
+## 🛡️ Threats Covered
 
 ThreatLens focuses on common digital threats including:
 
@@ -102,7 +102,7 @@ Social engineering
 Credential theft
 Suspicious messages and emails
 
-# 🎨 Design
+## 🎨 Design
 
 ThreatLens uses a dark, security-focused interface designed around clarity and simplicity.
 
@@ -112,7 +112,7 @@ Is that link safe — or a trap?
 
 The interface keeps the primary scanning action visible while providing access to additional investigation tools.
 
-# Design Principles
+## Design Principles
 
 Dark security-focused interface
 Clear visual hierarchy
@@ -121,7 +121,7 @@ Minimal distractions
 Easy-to-understand threat information
 Responsive interface
 
-# 🧰 Technology Stack
+## 🧰 Technology Stack
 
 Frontend
 React
@@ -133,7 +133,7 @@ Git
 GitHub
 Vercel
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```
 ThreatLens/
 ├── public/
@@ -157,7 +157,7 @@ ThreatLens/
 └── README.md
 ```
 
-# ⚙️ Run Locally
+## ⚙️ Run Locally
 
 1. Clone the Repository
 git clone https://github.com/Faizankhan-cyber/ThreatLens.git
@@ -170,7 +170,7 @@ npm run dev
 
 The terminal will provide the local development URL.
 
-# 🏗️ Production Build
+## 🏗️ Production Build
 
 Create a production build:
 
@@ -180,7 +180,7 @@ Preview the production build locally:
 
 npm run preview
 
-# 🔄 Development Workflow
+## 🔄 Development Workflow
 
 The project is maintained using Git and GitHub.
 
@@ -196,7 +196,7 @@ Production Website
 
 Changes pushed to the main GitHub repository can be deployed through Vercel.
 
-# 🔐 Security Awareness
+## 🔐 Security Awareness
 
 ThreatLens is designed to encourage safer behaviour when users encounter suspicious digital content.
 
@@ -212,7 +212,7 @@ Do not scan unknown QR codes without verification
 
 Threat detection tools should support good security habits, not replace them.
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 ThreatLens is a hackathon project and security-awareness tool.
 
@@ -220,7 +220,7 @@ Its analysis should not be treated as an absolute guarantee that a URL, message,
 
 Always verify suspicious requests through trusted sources before taking action.
 
-# 🏆 Hackathon Project
+## 🏆 Hackathon Project
 
 ThreatLens was created as a hackathon project by Cloud Sentinals, a team of BCA students working together to build a practical cybersecurity and digital-safety solution.
 
@@ -236,7 +236,7 @@ Lavanya	        Team Member
 
 All members of Cloud Sentinals are BCA students who collaborated on the development of ThreatLens.
 
-# Team Goal
+## Team Goal
 
 The goal of Cloud Sentinals was to build a simple and accessible platform that can help users think twice before interacting with potentially dangerous digital content.
 
