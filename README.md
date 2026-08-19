@@ -54,7 +54,10 @@ Make a safer decision
 ```
 The goal is to make digital threat detection easier to understand without overwhelming users with complicated security terminology.
 
+
 # ✨ Features
+
+
 ## 🔗 URL Scanner
 
 Analyse suspicious URLs and identify potential phishing or malicious-link indicators.
@@ -159,6 +162,7 @@ ThreatLens/
 
 ## ⚙️ Run Locally
 
+
 1. Clone the Repository
 git clone https://github.com/Faizankhan-cyber/ThreatLens.git
 2. Open the Project
@@ -172,6 +176,7 @@ The terminal will provide the local development URL.
 
 ## 🏗️ Production Build
 
+
 Create a production build:
 
 npm run build
@@ -184,6 +189,7 @@ npm run preview
 
 The project is maintained using Git and GitHub.
 
+```
 Local Development
        ↓
       Git
@@ -193,10 +199,12 @@ Local Development
     Vercel
        ↓
 Production Website
+```
 
 Changes pushed to the main GitHub repository can be deployed through Vercel.
 
 ## 🔐 Security Awareness
+
 
 ThreatLens is designed to encourage safer behaviour when users encounter suspicious digital content.
 
@@ -212,7 +220,9 @@ Do not scan unknown QR codes without verification
 
 Threat detection tools should support good security habits, not replace them.
 
+
 ## ⚠️ Disclaimer
+
 
 ThreatLens is a hackathon project and security-awareness tool.
 
@@ -220,11 +230,14 @@ Its analysis should not be treated as an absolute guarantee that a URL, message,
 
 Always verify suspicious requests through trusted sources before taking action.
 
+
 ## 🏆 Hackathon Project
+
 
 ThreatLens was created as a hackathon project by Cloud Sentinals, a team of BCA students working together to build a practical cybersecurity and digital-safety solution.
 
 ## Team Cloud Sentinals
+
 
 Member	        Role
 Zeeshan	        Team Member
@@ -234,22 +247,28 @@ Ibaad	        Team Member
 Vaishnavi	Team Member
 Lavanya	        Team Member
 
+
 All members of Cloud Sentinals are BCA students who collaborated on the development of ThreatLens.
+
 
 ## Team Goal
 
 The goal of Cloud Sentinals was to build a simple and accessible platform that can help users think twice before interacting with potentially dangerous digital content.
+
 
 🌐 Project Links
 🌐 Live Demo
 💻 GitHub Repository
 👨‍💻 Team Cloud Sentinals
 
+
 Zeeshan · Rayan · Faizan · Ibaad · Vaishnavi · Lavanya
+
 
 BCA Student Team
 Cybersecurity · Digital Safety · Technology
 
-📜 License
+
+## 📜 License
 
 This project was created as a hackathon project by Cloud Sentinals.
