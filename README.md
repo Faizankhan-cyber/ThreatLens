@@ -59,7 +59,6 @@ ThreatLens provides a centralized digital safety interface where users can submi
 The platform is built around a simple workflow:
 
 
-```text
 Submit suspicious content
         ↓
 Threat analysis
@@ -168,6 +167,9 @@ ThreatLens/
 ├── tsconfig.node.json
 ├── vite.config.ts
 └── README.md
+
+
+
 ⚙️ Run Locally
 1. Clone the Repository
 git clone https://github.com/Faizankhan-cyber/ThreatLens.git
