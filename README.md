@@ -238,7 +238,7 @@ ThreatLens was created as a hackathon project by Cloud Sentinals, a team of BCA 
 
 ## Team Cloud Sentinals
 
-
+```
 Member	        Role
 Zeeshan	        Team Member
 Rayan	        Team Member
@@ -246,7 +246,7 @@ Faizan	        Team Member
 Ibaad	        Team Member
 Vaishnavi	Team Member
 Lavanya	        Team Member
-
+```
 
 All members of Cloud Sentinals are BCA students who collaborated on the development of ThreatLens.
 
